@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OPLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/OPLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
